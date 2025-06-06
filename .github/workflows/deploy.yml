@@ -1,4 +1,3 @@
-# workflow to publist static content to Pages
 name: Deploy content to Pages
 
 on:
